@@ -1,0 +1,11 @@
+[
+    {
+        "kode": "6626",
+        "nama": "Ayam bebek",
+        "harga": 21000,
+        "stok": 20,
+        "minimum": 2,
+        "kategori": "Makanan",
+        "satuan": "90g"
+    }
+]
